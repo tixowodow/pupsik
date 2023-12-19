@@ -7,3 +7,5 @@
 ## dobavim tekst lokalno
 
 ## dobavili tekst v novoy vetke newbranch
+
+## razrechaem konflikt
