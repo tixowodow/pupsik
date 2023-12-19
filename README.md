@@ -10,4 +10,4 @@
 
 
 ## dobavil lokalniy konflikt
->>>>>>> a9e4dd5 (dobavil lokalniy  izmenili tekct konflikt)
+ a9e4dd5 (dobavil lokalniy  izmenili tekct konflikt)
