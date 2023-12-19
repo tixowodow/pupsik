@@ -1,7 +1,9 @@
 # Sozdaly  pupsik
 
 ## dobavili tekst
+
 ### dobavili tekst cherez brauzer
 
+## dobavim tekst lokalno
 
-dobavim tekst lokalno
+## dobavili tekst v novoy vetke newbranch
