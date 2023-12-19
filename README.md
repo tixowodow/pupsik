@@ -8,4 +8,5 @@
 
 ## dobavili tekst v novoy vetke newbranch
 
-## razrechaem konflikt
+## razrechaem konflikt tekst v brauzere
+
